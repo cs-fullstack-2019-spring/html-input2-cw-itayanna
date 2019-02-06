@@ -1,3 +1,6 @@
+### 1 POINT
+### Mostly correct but as noted in instructions, the input field for 'password' should have been type=password which hides the characters as they are entered, and missing required setting for some fields 'First and Last name required, as well as checkbox for agreeing to the terms'. lastly, no comments
+
 # HTML Input 2 CW
 
 Duplicate the form depicted in the included image. Note the following:
